@@ -1,7 +1,6 @@
 
-
-## Purplix is changing name to SyncPad!
-Thanks for taking interest in Purplix, we are currently rewriting the frontend of Purplix to be focused on collaborative note taking & surveying, under the new name SyncPad. SyncPad will also be moving away from BeerCSS to RippleUI as well.
+# Development is on pause.
+I'm busy working on other projects. Syncpad (formally Purplix) will continue development once I have more free time. Consider the current source code a proof of concept. 
 
 # Purplix is in early alpha
 Please report any issues.
